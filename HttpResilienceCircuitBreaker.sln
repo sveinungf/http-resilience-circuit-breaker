@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpResilienceCircuitBreaker", "HttpResilienceCircuitBreaker\HttpResilienceCircuitBreaker.csproj", "{446AAE9A-FBC3-45F1-8BD2-CE8C40CA034F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446AAE9A-FBC3-45F1-8BD2-CE8C40CA034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446AAE9A-FBC3-45F1-8BD2-CE8C40CA034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446AAE9A-FBC3-45F1-8BD2-CE8C40CA034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446AAE9A-FBC3-45F1-8BD2-CE8C40CA034F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33C5A71-DFF8-4691-99AA-8B81844C6F4E}
+	EndGlobalSection
+EndGlobal
